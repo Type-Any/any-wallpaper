@@ -1,0 +1,11 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "A weather menubar desktop applications beckend",
+    "main": "index.js",
+    "author": "evanjin (evanjin8@gmail.com)",
+    "license": "MIT",
+    "dependencies": {
+        "puppeteer": "^1.19.0"
+    }
+}
